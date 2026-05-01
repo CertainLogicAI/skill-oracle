@@ -1,5 +1,5 @@
 {
-  "name": "skill-oracle",
+  "name": "Skill Oracle",
   "version": "1.0.0",
   "description": "Agent knowledge base for quality ClawHub skills. Teaches your agent which tools actually work versus the 500+ broken/empty/garbage skills.",
   "author": "CertainLogic",

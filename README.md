@@ -1,4 +1,4 @@
-# CertainLogic Skill Oracle
+# Skill Oracle
 **Version:** 1.0.0  
 **Author:** CertainLogic  
 **License:** MIT  
