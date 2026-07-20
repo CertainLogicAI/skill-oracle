@@ -1,7 +1,7 @@
 # Skill Oracle
 **Version:** 1.0.0  
 **Author:** CertainLogic  
-**License:** MIT  
+**License:** BSL 1.1  
 **Inspiration:** LarryBrain (with attribution, not competition)
 
 ## What This Is
