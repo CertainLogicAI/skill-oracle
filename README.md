@@ -6,7 +6,7 @@
 
 ## What This Is
 
-A meta-skill that teaches your agent about **every quality skill on ClawHub**. Install once, and your agent *knows* which tools actually work — no more digging through 500+ broken, empty, or garbage skills.
+A meta-skill that teaches your agent about **every quality skill on ClawHub**. Install once, and your agent *knows* which tools actually work — no more digging through 500+ broken, empty, or low-quality skills.
 
 **Not a copy of LarryBrain.** A focused, honest curation layer that separates **utility** from **junk**.
 
@@ -59,7 +59,7 @@ The skill contains structured knowledge of:
 
 ## Links
 
-- GitHub: https://github.com/certainlogic/skill-oracle
+- GitHub: https://github.com/CertainLogicAI/skill-oracle
 - ClawHub: https://clawhub.ai/certainlogicai/skill-oracle
 - Docs: https://certainlogic.ai/docs/skill-oracle
 
