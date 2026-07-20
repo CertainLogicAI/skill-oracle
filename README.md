@@ -6,9 +6,9 @@
 
 ## What This Is
 
-A meta-skill that teaches your agent about **every quality skill on ClawHub**. Install once, and your agent *knows* which tools actually work — no more digging through 500+ broken, empty, or low-quality skills.
+A meta-skill that teaches your agent about **every quality skill on ClawHub**. Install once, and your agent *knows* which tools actually work — no more digging through 500+ non-functional, empty, or low-quality skills.
 
-**Not a copy of LarryBrain.** A focused, honest curation layer that separates **utility** from **junk**.
+**Not a copy of LarryBrain.** A focused, honest curation layer that separates **utility** from **low-utility noise**.
 
 ## How It Works
 
@@ -54,7 +54,7 @@ The skill contains structured knowledge of:
 
 - Concept inspired by: **LarryBrain** (skill discovery category)
 - Built by: **CertainLogic**
-- Focus: Honest curation of ClawHub — separating utility from junk
+- Focus: Honest curation of ClawHub — separating utility from low-utility noise
 - We feature our skills AND the best community skills, with equal attribution
 
 ## Links
