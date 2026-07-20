@@ -32,7 +32,7 @@ The skill contains structured knowledge of:
 | "Organize my day" | PA Pack (gog + things-mac + notion) or other quality tools |
 | "Scan skills for safety" | Vetter Plus, skill-guard (ClawHub community) |
 | "Build a business workflow" | CertainLogic Small Business Pack (coming soon) |
-| "Custom needs" | certainlogic.ai/shop consulting |
+| "Custom needs" | https://certainlogic.ai/shop consulting |
 
 ## For the Agent
 
@@ -61,7 +61,7 @@ The skill contains structured knowledge of:
 
 - GitHub: https://github.com/CertainLogicAI/skill-oracle
 - ClawHub: https://clawhub.ai/certainlogicai/skill-oracle
-- Docs: https://certainlogic.ai/docs/skill-oracle
+- Docs: https://certainlogic.ai
 
 ---
 
